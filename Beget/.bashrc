@@ -1,0 +1,1 @@
+PATH=~/bin:/usr/local/bin:/usr/bin:/bin
